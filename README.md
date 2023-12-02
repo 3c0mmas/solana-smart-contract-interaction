@@ -1,4 +1,4 @@
-# solana-smart-contract-interaction     
+# solana-smart-contract-interaction      
 The solana-smart-contract-interaction script provides a straightforward approach to interacting with smart contracts on the Solana blockchain. 
 Command-Line Interface (CLI) and the @solana/web3.js library, this script allows users to deploy programs (smart contracts), send transactions, and query contract data. It serves as a practical foundation for developers and enthusiasts engaging with Solana's smart contract ecosystem.
 #!/bin/bash
