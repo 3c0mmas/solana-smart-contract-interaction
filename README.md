@@ -51,4 +51,5 @@ send_transaction
 query_contract_info
 
 This script simplifies smart contract interactions on the Solana blockchain using Solana CLI and @solana/web3.js. Users can deploy Rust programs (smart contracts), send transactions, and query contract data. It serves as a practical tool for developers and enthusiasts engaging with Solana's smart contract ecosystem.
-# Query smart contract information
+# Query smart contract information 
+9684
